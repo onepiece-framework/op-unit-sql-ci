@@ -2,11 +2,10 @@
 /**	op-unit-sql-ci:/DML/Insert.php
  *
  * @created    2025-11-27
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-unit-sql
  * @subpackage ci
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All rights reserved.
+ * @copyright  (C) 2025 Tomoaki Nagahara
  */
 
 /**	Declare strict type
