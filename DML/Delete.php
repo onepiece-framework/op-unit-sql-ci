@@ -26,5 +26,5 @@ $method = explode('.', $method)[0];
 
 //	...
 $args   = [ [], OP()->Unit()->Database() ];
-$result = null;
+$result = 'Notice: This value has not been set: table';
 $ci->Set($method, $result, $args);
